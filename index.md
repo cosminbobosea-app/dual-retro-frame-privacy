@@ -2,7 +2,7 @@
 
 **Effective Date:** November 23, 2026  
 **Last Updated:** November 23, 2026  
-**Canonical Policy URL:** https://cosminbobosea.github.io/OldDualCamera/PRIVACY_POLICY  
+**Canonical Policy URL:** https://cosminbobosea-app.github.io/dual-retro-frame-privacy/  
 **Developer & Support Contact:** cosminbobosea@gmail.com
 
 ---
@@ -64,7 +64,7 @@ Dual Retro Frame Camera does not knowingly collect, solicit, or store personal i
 
 ## 6. Changes to This Privacy Policy
 
-Any updates to this Privacy Policy will be published at `https://cosminbobosea.github.io/OldDualCamera/PRIVACY_POLICY` with an updated revision date.
+Any updates to this Privacy Policy will be published at `https://cosminbobosea-app.github.io/dual-retro-frame-privacy/` with an updated revision date.
 
 ---
 
